@@ -10,9 +10,8 @@ Instructions
 	(3) Enter the path where you want to install Floppy10. This can be A:\, C:\F10, but not C:\
 	because it emptys the folder where you want to install it. It will run rd C:\ /s /q which we don't
 	want. (It's a destroy command)
-	(4) Enter the username you want to use. This can be anything, but don't use spaces. Replace spaces with an underscore (_).
-	(5) Wait for it to install. This might take a second depending on the floppy disk drive.
-	(6) Press a key. This will exit out of the installer. There we go!
+	(4) Wait for it to install. This might take a second depending on the floppy disk drive.
+	(5) Press a key. This will exit out of the installer.
 
 Bugs
 	Use the issues page.
